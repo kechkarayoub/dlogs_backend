@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-ks@vda$u(ub-umd4n9_h=c+lo+4(-w*n49daf1%@n=qxa&-w@=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["dlogs-backend.onrender.com", "https://dlogsfrontendprod.vercel.app/"]
 
 
 # Application definition
